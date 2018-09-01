@@ -1,0 +1,782 @@
+Fermat's little theorem<->Gottfried Wilhelm Leibniz<->50
+Edmund Husserl<->Gottfried Wilhelm Leibniz<->50
+Latino-Faliscan languages<->Latin<->50
+predictions<->science<->50
+Christoph Bernhard Francke<->Gottfried Wilhelm Leibniz<->50
+velocity<->differential calculus<->50
+social sciences<->mathematics<->50
+social sciences<->science<->50
+ambient calculus<->process calculus<->50
+Measure (mathematics)<->mathematical analysis<->50
+applied economics<->economics<->50
+Ecclesiastical Latin<->Latin<->50
+Ruggero Giuseppe Boscovich<->Gottfried Wilhelm Leibniz<->50
+Jacob Bernoulli<->Gottfried Wilhelm Leibniz<->50
+alchemy<->Isaac Newton<->50
+Natural number<->abacus<->50
+Computer<->abacus<->50
+Leipzig University<->Gottfried Wilhelm Leibniz<->50
+Plautus<->Latin<->50
+17th-century philosophy<->Gottfried Wilhelm Leibniz<->50
+Leibniz wheel<->Gottfried Wilhelm Leibniz<->50
+Erhard Weigel<->Gottfried Wilhelm Leibniz<->50
+natural philosophy<->science<->50
+natural philosophy<->Isaac Newton<->50
+Rationalism<->Gottfried Wilhelm Leibniz<->50
+paradox<->Series (mathematics)<->50
+Classical mechanics<->Isaac Newton<->50
+Leibniz formula for π<->Gottfried Wilhelm Leibniz<->50
+Limit of a sequence<->limit (mathematics)<->50
+Part (system)<->engineering<->50
+axiom<->mathematics<->50
+Principle of sufficient reason<->Gottfried Wilhelm Leibniz<->50
+financial economics<->economics<->50
+The World Bank<->economics<->50
+Green economics<->economics<->50
+machine<->engineering<->50
+Aristotle<->Gottfried Wilhelm Leibniz<->50
+calipers<->mathematics<->50
+The Method of Mechanical Theorems<->infinitesimal<->50
+Health economics<->economics<->50
+Square root<->abacus<->50
+function application<->lambda calculus<->50
+geodesic<->calculus of variations<->50
+history of philosophy<->Gottfried Wilhelm Leibniz<->50
+Dirac delta function<->infinitesimal<->50
+Thomas Aquinas<->Gottfried Wilhelm Leibniz<->50
+Science and Islam (documentary)<->science<->50
+derivative<->limit (mathematics)<->50
+derivative<->calculus of variations<->50
+derivative<->infinitesimal<->50
+derivative<->differential calculus<->50
+derivative<->fundamental theorem of calculus<->50
+differential equation<->Function (mathematics)<->50
+differential equation<->mathematical analysis<->50
+time<->differential calculus<->50
+Dirichlet principle<->calculus of variations<->50
+game theory<->mathematics<->50
+Lower Saxony<->Gottfried Wilhelm Leibniz<->50
+Mathematical rigour<->mathematics<->50
+Africa<->abacus<->50
+pure mathematics<->mathematics<->50
+Francisco Suárez<->Gottfried Wilhelm Leibniz<->50
+Western Philosophy<->Gottfried Wilhelm Leibniz<->50
+Oxford University Press<->Isaac Newton<->50
+limit (mathematics)<->function (mathematics)<->50
+limit (mathematics)<->Value (mathematics)<->50
+limit (mathematics)<->category theory<->50
+limit (mathematics)<->Calculus<->50
+limit (mathematics)<->direct limit<->50
+limit (mathematics)<->continuous function<->50
+limit (mathematics)<->mathematical analysis<->50
+limit (mathematics)<->calculus<->50
+limit (mathematics)<->limit of a sequence<->50
+limit (mathematics)<->mathematics<->50
+limit (mathematics)<->integral<->50
+limit (mathematics)<->sequence<->50
+limit (mathematics)<->net (topology)<->50
+limit (mathematics)<->Limit of a function<->50
+limit (mathematics)<->limit (category theory)<->50
+limit (mathematics)<->Series (mathematics)<->50
+limit (mathematics)<->Brooks/Cole<->50
+Chronology of the Bible<->Isaac Newton<->50
+Trinity College, Cambridge<->Isaac Newton<->50
+Islamic Golden Age<->science<->50
+Fermat's principle<->calculus of variations<->50
+Armenian Kingdom of Cilicia<->Latin<->50
+Marcus du Sautoy<->mathematics<->50
+Diagrammatic reasoning<->Gottfried Wilhelm Leibniz<->50
+Cauchy product<->Series (mathematics)<->50
+natural science<->mathematics<->50
+natural science<->science<->50
+linguistics<->Gottfried Wilhelm Leibniz<->50
+wikt:μέτρον<->geometry<->50
+expression (mathematics)<->Series (mathematics)<->50
+List of medical roots, suffixes and prefixes<->Latin<->50
+Vertical line test<->Function (mathematics)<->50
+differential geometry<->differential calculus<->50
+quantity<->mathematics<->50
+join-calculus<->process calculus<->50
+history<->Gottfried Wilhelm Leibniz<->50
+Émilie du Châtelet<->Gottfried Wilhelm Leibniz<->50
+Leibniz formula for determinants<->Gottfried Wilhelm Leibniz<->50
+model of computation<->lambda calculus<->50
+Name binding<->lambda calculus<->50
+Roman Rite<->Latin<->50
+Lyndon LaRouche<->Gottfried Wilhelm Leibniz<->50
+The School of Athens<->mathematics<->50
+Eastern Europe<->abacus<->50
+Roman Kingdom<->Latin<->50
+mainstream economics<->economics<->50
+Zeno's paradox<->Series (mathematics)<->50
+calculation<->mathematics<->50
+Modern Latin<->infinitesimal<->50
+Turing machine<->lambda calculus<->50
+economics of science<->economics<->50
+Plateau's problem<->calculus of variations<->50
+Ernst Platner<->Gottfried Wilhelm Leibniz<->50
+mathematical analysis<->Integral<->50
+mathematical analysis<->topological space<->50
+mathematical analysis<->Edwin Hewitt<->50
+mathematical analysis<->Real number<->50
+mathematical analysis<->mathematics<->50
+mathematical analysis<->Limit (mathematics)<->50
+mathematical analysis<->engineering<->50
+mathematical analysis<->metric space<->50
+mathematical analysis<->calculus<->50
+mathematical analysis<->science<->50
+mathematical analysis<->calculus of variations<->50
+mathematical analysis<->analytic function<->50
+mathematical analysis<->Derivative<->50
+mathematical analysis<->Calculus<->50
+mathematical analysis<->Complex number<->50
+mathematical analysis<->algebra<->50
+mathematical analysis<->Space (mathematics)<->50
+mathematical analysis<->geometry<->50
+mathematical analysis<->Function (mathematics)<->50
+mathematical analysis<->mathematical object<->50
+mathematical analysis<->Series (mathematics)<->50
+Latin language<->science<->50
+Pythagoras<->abacus<->50
+set (mathematics)<->Function (mathematics)<->50
+patterns<->mathematics<->50
+Jakob Thomasius<->Gottfried Wilhelm Leibniz<->50
+BBC<->science<->50
+Nicolas Steno<->Gottfried Wilhelm Leibniz<->50
+Constant (mathematics)<->algebra<->50
+De Arte Combinatoria<->Gottfried Wilhelm Leibniz<->50
+statistics<->mathematics<->50
+statistics<->Series (mathematics)<->50
+theology<->Gottfried Wilhelm Leibniz<->50
+theology<->Latin<->50
+Algebraic geometry<->geometry<->50
+triangle<->geometry<->50
+Technical University of Madrid<->engineering<->50
+Classical Latin<->Latin<->50
+Logic<->mathematics<->50
+Calculus<->convergence (mathematics)<->50
+Calculus<->lambda calculus<->50
+Calculus<->infinite sequence<->50
+Calculus<->Isaac Newton<->50
+Calculus<->infinitesimal<->50
+Calculus<->arithmetic operations<->50
+Calculus<->mathematics<->50
+Calculus<->abacus<->50
+Calculus<->engineering<->50
+Calculus<->calculus of variations<->50
+Calculus<->Gottfried Wilhelm Leibniz<->50
+Calculus<->economics<->50
+Calculus<->science<->50
+Calculus<->differential calculus<->50
+Calculus<->process calculus<->50
+Calculus<->Latin<->50
+Calculus<->propositional calculus<->50
+Calculus<->integral calculus<->50
+Calculus<->algebra<->50
+Calculus<->mathematics education<->50
+Calculus<->fundamental theorem of calculus<->50
+Calculus<->geometry<->50
+Calculus<->Function (mathematics)<->50
+Calculus<->Series (mathematics)<->50
+pedagogy<->mathematics education<->50
+Collins English Dictionary<->Gottfried Wilhelm Leibniz<->50
+Collins English Dictionary<->Isaac Newton<->50
+Royal Society<->Isaac Newton<->50
+gravity<->Isaac Newton<->50
+Microeconomics<->economics<->50
+mechanics<->calculus of variations<->50
+Engineering research<->engineering<->50
+God<->Gottfried Wilhelm Leibniz<->50
+Italic languages<->Latin<->50
+continuous function<->infinitesimal<->50
+continuous function<->fundamental theorem of calculus<->50
+method of indivisibles<->infinitesimal<->50
+Natural philosophy<->Isaac Newton<->50
+Holy Roman Empire<->Gottfried Wilhelm Leibniz<->50
+explanation<->science<->50
+Royal Mint<->Isaac Newton<->50
+Earth<->Isaac Newton<->50
+Louis de Bonald<->Gottfried Wilhelm Leibniz<->50
+Aalto University School of Science and Technology<->mathematics education<->50
+Zeno of Elea<->Series (mathematics)<->50
+normative economics<->economics<->50
+Jacques-Bénigne Bossuet<->Gottfried Wilhelm Leibniz<->50
+Scholasticism<->Gottfried Wilhelm Leibniz<->50
+optimization<->geometry<->50
+Transformation (function)<->Function (mathematics)<->50
+Universal science<->Gottfried Wilhelm Leibniz<->50
+Ancient Greece#Science and technology<->science<->50
+abstract algebra<->algebra<->50
+abstract algebra<->differential calculus<->50
+David Hume<->Gottfried Wilhelm Leibniz<->50
+Renaissance Latin<->Latin<->50
+wikt:γῆ<->geometry<->50
+calculus of variations<->real number<->50
+calculus of variations<->definite integral<->50
+calculus of variations<->functional (mathematics)<->50
+calculus of variations<->principle of least action<->50
+calculus of variations<->Laplace equation<->50
+calculus of variations<->topology<->50
+calculus of variations<->Function (mathematics)<->50
+calculus of variations<->Map (mathematics)<->50
+Giambattista Vico<->Gottfried Wilhelm Leibniz<->50
+Name_collision<->lambda calculus<->50
+Binomial series<->Isaac Newton<->50
+Anne Conway, Viscountess Conway<->Gottfried Wilhelm Leibniz<->50
+Solar System<->Isaac Newton<->50
+zeroth-order logic<->propositional calculus<->50
+1/∞<->infinitesimal<->50
+finance<->mathematics<->50
+finance<->Series (mathematics)<->50
+applied science<->science<->50
+standard language<->Latin<->50
+linear algebra<->geometry<->50
+linear algebra<->algebra<->50
+Hindu–Arabic numeral system<->abacus<->50
+axiomatic system<->geometry<->50
+Communicating Sequential Processes<->process calculus<->50
+Bernardino Varisco<->Gottfried Wilhelm Leibniz<->50
+Best of all possible worlds<->Gottfried Wilhelm Leibniz<->50
+Arabic<->algebra<->50
+measurement<->mathematics<->50
+classical language<->Latin<->50
+Roman Empire<->Latin<->50
+slope<->infinitesimal<->50
+slope<->differential calculus<->50
+geometry<->mathematical science<->50
+geometry<->circle<->50
+geometry<->cryptography<->50
+geometry<->convex analysis<->50
+geometry<->physics<->50
+geometry<->congruence (geometry)<->50
+geometry<->compact (topology)<->50
+geometry<->area<->50
+geometry<->plane (mathematics)<->50
+geometry<->continuous mapping<->50
+geometry<->Academic Press<->50
+geometry<->point (geometry)<->50
+geometry<->string theory<->50
+geometry<->Euclid's Elements<->50
+geometry<->multivariate polynomial<->50
+geometry<->calculus<->50
+geometry<->connectedness<->50
+geometry<->Line (geometry)<->50
+geometry<->Euclidean geometry<->50
+geometry<->computer science<->50
+geometry<->crystallography<->50
+geometry<->volume<->50
+geometry<->Middle Ages<->50
+geometry<->Convex geometry<->50
+geometry<->similarity (geometry)<->50
+geometry<->topological manifold<->50
+geometry<->analytic geometry<->50
+geometry<->geometer<->50
+geometry<->René Descartes<->50
+geometry<->angle<->50
+geometry<->non-Euclidean geometry<->50
+geometry<->solid figure<->50
+geometry<->Euclid<->50
+geometry<->Discrete geometry<->50
+geometry<->functional analysis<->50
+geometry<->Differential geometry<->50
+geometry<->real analysis<->50
+geometry<->Topology<->50
+geometry<->combinatorics<->50
+geometry<->length<->50
+geometry<->general relativity<->50
+geometry<->number theory<->50
+geometry<->Pierre de Fermat<->50
+geometry<->mathematics<->50
+geometry<->algebra<->50
+geometry<->projective geometry<->50
+infinite sequence<->Sequence<->50
+momentum<->differential calculus<->50
+design<->engineering<->50
+Calculus of Communicating Systems<->process calculus<->50
+geology<->Gottfried Wilhelm Leibniz<->50
+number<->mathematics<->50
+number<->Series (mathematics)<->50
+Gabriel Wagner<->Gottfried Wilhelm Leibniz<->50
+numerical integration<->fundamental theorem of calculus<->50
+Sovereign Military Order of Malta<->Latin<->50
+operations research<->differential calculus<->50
+Vladimir Arnold<->infinitesimal<->50
+Old Latin<->Latin<->50
+physics<->science<->50
+physics<->Series (mathematics)<->50
+physics<->differential calculus<->50
+physics<->Gottfried Wilhelm Leibniz<->50
+Holy See<->Latin<->50
+inverse function<->Function (mathematics)<->50
+Meyers Konversations-Lexikon<->Gottfried Wilhelm Leibniz<->50
+scientific revolution<->Isaac Newton<->50
+Charles Marie de La Condamine<->Isaac Newton<->50
+beta normal form<->lambda calculus<->50
+rationalism<->Gottfried Wilhelm Leibniz<->50
+Latin<->epigraphy<->50
+Latin<->Greek alphabet<->50
+Latin<->Holy orders (Catholic Church)<->50
+Latin<->grammatical person<->50
+Latin<->List of Latin and Greek words commonly used in systematic names<->50
+Latin<->University of Chicago Press<->50
+Latin<->French language<->50
+Latin<->Gottfried Wilhelm Leibniz<->50
+Latin<->Vulgar Latin<->50
+Latin<->New Latin<->50
+Latin<->Portuguese language<->50
+Latin<->Extinct language<->50
+Latin<->Latium<->50
+Latin<->Circa<->50
+Latin<->fusional language<->50
+Latin<->Pontifical Academy for Latin<->50
+Latin<->grammatical case<->50
+Latin<->Terence<->50
+Latin<->Roman Republic<->50
+Latin<->engineering<->50
+Latin<->List of English words of Italian origin<->50
+Latin<->grammatical mood<->50
+Latin<->Sacred language<->50
+Latin<->Latin alphabet<->50
+Latin<->Italian language<->50
+Latin<->Old Italic script#Etruscan alphabet<->50
+Latin<->List of English words of French origin<->50
+Latin<->Colosseum<->50
+Latin<->Late Latin<->50
+Latin<->sacred language<->50
+Latin<->Romance languages<->50
+Latin<->Medieval Latin<->50
+Latin<->English language<->50
+Latin<->Latins (Italic tribe)<->50
+Latin<->Ancient Greek<->50
+Latin<->List of Latin words with English derivatives<->50
+Latin<->Italian Peninsula<->50
+Latin<->The Renaissance<->50
+Latin<->Early modern Europe<->50
+Latin<->grammatical tense<->50
+Latin<->Romanian language<->50
+Latin<->grammatical number<->50
+Latin<->vernacular<->50
+Latin<->grammatical gender<->50
+Latin<->Phoenician alphabet<->50
+Latin<->Spanish language<->50
+Latin<->voice (grammar)<->50
+Latin<->Catholic Church<->50
+Latin<->Indo-European languages<->50
+Latin<->lingua franca<->50
+Latin<->Vatican City<->50
+Latin<->grammatical conjugation<->50
+Latin<->grammatical aspect<->50
+maxima and minima<->differential calculus<->50
+medicine<->Gottfried Wilhelm Leibniz<->50
+medicine<->mathematics<->50
+medicine<->science<->50
+#1666–1676<->Gottfried Wilhelm Leibniz<->50
+Ferdinand Georg Frobenius<->Gottfried Wilhelm Leibniz<->50
+Joseph-Louis Lagrange<->infinitesimal<->50
+arithmometer<->Gottfried Wilhelm Leibniz<->50
+invention<->engineering<->50
+Nicolas Malebranche<->Gottfried Wilhelm Leibniz<->50
+Laurence R. Iannaccone<->economics<->50
+Master of the Mint<->Isaac Newton<->50
+Woolsthorpe-by-Colsterworth<->Isaac Newton<->50
+computer<->Gottfried Wilhelm Leibniz<->50
+beam engine<->engineering<->50
+Dispersive prism<->Isaac Newton<->50
+fundamental theorem of calculus<->function (mathematics)<->50
+fundamental theorem of calculus<->theorem<->50
+fundamental theorem of calculus<->symbolic integration<->50
+fundamental theorem of calculus<->antiderivative<->50
+fundamental theorem of calculus<->differential calculus<->50
+fundamental theorem of calculus<->integral<->50
+elementary algebra<->algebra<->50
+Abstraction (computer science)<->lambda calculus<->50
+Trinity<->Isaac Newton<->50
+innovate<->engineering<->50
+Kepler's laws of planetary motion<->Isaac Newton<->50
+generating function<->Series (mathematics)<->50
+Pi-calculus<->process calculus<->50
+Reduction_strategy_(lambda_calculus)<->lambda calculus<->50
+Hegel<->Gottfried Wilhelm Leibniz<->50
+Albert Einstein<->mathematics<->50
+The New Palgrave Dictionary of Economics<->economics<->50
+Denis Diderot<->Gottfried Wilhelm Leibniz<->50
+philosophy<->Gottfried Wilhelm Leibniz<->50
+philosophy<->science<->50
+logical connective<->propositional calculus<->50
+Limit (mathematics)<->convergence (mathematics)<->50
+technology<->Gottfried Wilhelm Leibniz<->50
+technology<->engineering<->50
+List of engineering branches<->engineering<->50
+Ancient Greek<->mathematics<->50
+Fellow of the Royal Society<->Isaac Newton<->50
+Structural engineering<->engineering<->50
+Natural phenomenon<->differential calculus<->50
+real analysis<->Function (mathematics)<->50
+Martin Heidegger<->Gottfried Wilhelm Leibniz<->50
+speed of sound<->Isaac Newton<->50
+Blaise Pascal<->Gottfried Wilhelm Leibniz<->50
+adequality<->infinitesimal<->50
+real-valued function<->differential calculus<->50
+codimension<->infinitesimal<->50
+Gilles Deleuze<->Gottfried Wilhelm Leibniz<->50
+probability theory<->Gottfried Wilhelm Leibniz<->50
+organizations<->engineering<->50
+visible spectrum<->Isaac Newton<->50
+reflecting telescope<->Isaac Newton<->50
+German language<->Gottfried Wilhelm Leibniz<->50
+branches of science<->science<->50
+group (mathematics)<->algebra<->50
+Systems engineering<->engineering<->50
+cubic plane curve<->Isaac Newton<->50
+Islamic Golden Age#Scientific method<->science<->50
+formal system<->lambda calculus<->50
+Mário Ferreira dos Santos<->Gottfried Wilhelm Leibniz<->50
+Maintenance, repair, and operations<->engineering<->50
+Physics<->Isaac Newton<->50
+Product rule<->Gottfried Wilhelm Leibniz<->50
+comet<->Isaac Newton<->50
+arithmetic operations<->arithmetic<->50
+Electorate of Saxony<->Gottfried Wilhelm Leibniz<->50
+Plato<->Gottfried Wilhelm Leibniz<->50
+celestial mechanics<->Isaac Newton<->50
+codomain (mathematics)<->Function (mathematics)<->50
+Leibniz harmonic triangle<->Gottfried Wilhelm Leibniz<->50
+Gottfried Wilhelm Leibniz<->Multiple discovery<->50
+Gottfried Wilhelm Leibniz<->18th-century philosophy<->50
+Gottfried Wilhelm Leibniz<->Nicholas Rescher<->50
+Gottfried Wilhelm Leibniz<->Baruch Spinoza<->50
+Gottfried Wilhelm Leibniz<->Notation for differentiation<->50
+Gottfried Wilhelm Leibniz<->Leibniz's notation<->50
+Gottfried Wilhelm Leibniz<->Henri Bergson<->50
+Gottfried Wilhelm Leibniz<->Pascal's calculator<->50
+Gottfried Wilhelm Leibniz<->metaphysics<->50
+Gottfried Wilhelm Leibniz<->universal language<->50
+Gottfried Wilhelm Leibniz<->Law of Continuity<->50
+Gottfried Wilhelm Leibniz<->Maimonides<->50
+Gottfried Wilhelm Leibniz<->Hanover<->50
+Gottfried Wilhelm Leibniz<->Chain rule<->50
+Gottfried Wilhelm Leibniz<->differential and integral calculus<->50
+Gottfried Wilhelm Leibniz<->politics<->50
+Gottfried Wilhelm Leibniz<->theodicy<->50
+Gottfried Wilhelm Leibniz<->Giordano Bruno<->50
+Gottfried Wilhelm Leibniz<->Pierre Gassendi<->50
+Gottfried Wilhelm Leibniz<->Immanuel Kant<->50
+Gottfried Wilhelm Leibniz<->Transcendental Law of Homogeneity<->50
+Gottfried Wilhelm Leibniz<->polymath<->50
+Gottfried Wilhelm Leibniz<->George Holmes Howison<->50
+Gottfried Wilhelm Leibniz<->Problem of why there is anything at all<->50
+Gottfried Wilhelm Leibniz<->Charles Sanders Peirce<->50
+Gottfried Wilhelm Leibniz<->René Descartes<->50
+Gottfried Wilhelm Leibniz<->Christiaan Huygens<->50
+Gottfried Wilhelm Leibniz<->Bertrand Russell<->50
+Gottfried Wilhelm Leibniz<->Entscheidungsproblem<->50
+Gottfried Wilhelm Leibniz<->Mathematics<->50
+Gottfried Wilhelm Leibniz<->Norbert Wiener<->50
+Gottfried Wilhelm Leibniz<->pinwheel calculator<->50
+Gottfried Wilhelm Leibniz<->biology<->50
+Gottfried Wilhelm Leibniz<->Monadology<->50
+Gottfried Wilhelm Leibniz<->Félix Ravaisson-Mollien<->50
+Gottfried Wilhelm Leibniz<->Plotinus<->50
+Gottfried Wilhelm Leibniz<->Transcendental law of homogeneity<->50
+Gottfried Wilhelm Leibniz<->Leipzig<->50
+Gottfried Wilhelm Leibniz<->Thomas Hobbes<->50
+Gottfried Wilhelm Leibniz<->ethics<->50
+Gottfried Wilhelm Leibniz<->philosopher<->50
+Gottfried Wilhelm Leibniz<->Augustine of Hippo<->50
+Gottfried Wilhelm Leibniz<->French language<->50
+Gottfried Wilhelm Leibniz<->Franz Serafin Exner (philosopher)<->50
+Gottfried Wilhelm Leibniz<->Alternating series test<->50
+Gottfried Wilhelm Leibniz<->Nicholas of Cusa<->50
+Gottfried Wilhelm Leibniz<->Frederick Copleston<->50
+Gottfried Wilhelm Leibniz<->Fractional calculus<->50
+Gottfried Wilhelm Leibniz<->analytic philosophy<->50
+Gottfried Wilhelm Leibniz<->law<->50
+Gottfried Wilhelm Leibniz<->Charles Bonnet<->50
+Gottfried Wilhelm Leibniz<->psychology<->50
+Gottfried Wilhelm Leibniz<->non-standard analysis<->50
+Gottfried Wilhelm Leibniz<->philology<->50
+Gottfried Wilhelm Leibniz<->computer science<->50
+Gottfried Wilhelm Leibniz<->Calculus ratiocinator<->50
+Gottfried Wilhelm Leibniz<->history of mathematics<->50
+Gottfried Wilhelm Leibniz<->Voltaire<->50
+Gottfried Wilhelm Leibniz<->Isaac Newton<->50
+Gottfried Wilhelm Leibniz<->Universe<->50
+Gottfried Wilhelm Leibniz<->infinitesimal<->50
+Gottfried Wilhelm Leibniz<->University of Altdorf<->50
+Gottfried Wilhelm Leibniz<->Gregory Chaitin<->50
+Gottfried Wilhelm Leibniz<->learned journal<->50
+Gottfried Wilhelm Leibniz<->Characteristica universalis<->50
+Gottfried Wilhelm Leibniz<->Kurt Gödel<->50
+Gottfried Wilhelm Leibniz<->Confucius<->50
+Gottfried Wilhelm Leibniz<->Philosophical optimism<->50
+Gottfried Wilhelm Leibniz<->Johannes Nikolaus Tetens<->50
+Gottfried Wilhelm Leibniz<->Christian Wolff (philosopher)<->50
+Gottfried Wilhelm Leibniz<->logic<->50
+Gottfried Wilhelm Leibniz<->Kinetic energy<->50
+Gottfried Wilhelm Leibniz<->binary number<->50
+Gottfried Wilhelm Leibniz<->#SMITH<->50
+Gottfried Wilhelm Leibniz<->mechanical calculator<->50
+Gottfried Wilhelm Leibniz<->Pico della Mirandola<->50
+Gottfried Wilhelm Leibniz<->University of Jena<->50
+Gottfried Wilhelm Leibniz<->Pierre Louis Moreau de Maupertuis<->50
+Gottfried Wilhelm Leibniz<->Stanford Encyclopedia of Philosophy<->50
+Gottfried Wilhelm Leibniz<->Ramon Llull<->50
+Gottfried Wilhelm Leibniz<->Gabriel Tarde<->50
+Gottfried Wilhelm Leibniz<->Leibniz integral rule<->50
+Gottfried Wilhelm Leibniz<->Gottlob Frege<->50
+economics<->public choice<->50
+economics<->business economics<->50
+economics<->Family economics<->50
+economics<->goods and services<->50
+economics<->Macroeconomics<->50
+economics<->Palgrave Macmillan<->50
+economics<->engineering<->50
+economics<->social science<->50
+economics<->Rational choice theory<->50
+economics<->markets<->50
+economics<->behavioural economics<->50
+economics<->Economics of religion<->50
+economics<->positive economics<->50
+economics<->Law and economics<->50
+economics<->education economics<->50
+economics<->Institutional economics<->50
+economics<->distribution (economics)<->50
+economics<->William D. Nordhaus<->50
+economics<->Production (economics)<->50
+economics<->economy<->50
+economics<->heterodox economics<->50
+economics<->Agent (economics)<->50
+economics<->Consumption (economics)<->50
+truth<->mathematics<->50
+differential calculus<->functional analysis<->50
+differential calculus<->Newton's laws of motion#Newton's second law<->50
+differential calculus<->graph of a function<->50
+differential calculus<->linear approximation<->50
+differential calculus<->integration (mathematics)<->50
+differential calculus<->calculus<->50
+differential calculus<->mathematics<->50
+differential calculus<->Differential of a function<->50
+differential calculus<->chemical reaction<->50
+differential calculus<->measure theory<->50
+differential calculus<->differential equations<->50
+differential calculus<->reaction rate<->50
+differential calculus<->integral calculus<->50
+differential calculus<->displacement (vector)<->50
+differential calculus<->complex analysis<->50
+differential calculus<->tangent#Geometry<->50
+differential calculus<->Function (mathematics)<->50
+Classical elements<->science<->50
+algebraic topology<->algebra<->50
+formula<->Function (mathematics)<->50
+integral calculus<->Integral<->50
+knowledge<->science<->50
+knowledge<->engineering<->50
+counting<->mathematics<->50
+Euclid's Elements<->mathematics<->50
+conjecture<->mathematics<->50
+knight<->Isaac Newton<->50
+transfer principle<->infinitesimal<->50
+universe<->science<->50
+teaching<->mathematics education<->50
+Roger Cotes<->Isaac Newton<->50
+Greek mathematics<->mathematics<->50
+computer science<->process calculus<->50
+computer science<->Series (mathematics)<->50
+Series (mathematics)<->philosopher<->50
+Series (mathematics)<->summation sign<->50
+Series (mathematics)<->calculus<->50
+Series (mathematics)<->mathematics<->50
+Series (mathematics)<->term (mathematics)<->50
+Series (mathematics)<->sequence (mathematics)<->50
+Series (mathematics)<->associative algebra<->50
+Series (mathematics)<->real number<->50
+Series (mathematics)<->function (mathematics)<->50
+Series (mathematics)<->complex number<->50
+Series (mathematics)<->combinatorics<->50
+Series (mathematics)<->field (mathematics)<->50
+Series (mathematics)<->Achilles and the tortoise<->50
+Series (mathematics)<->ring (mathematics)<->50
+Series (mathematics)<->potential infinity<->50
+Mathematician<->mathematics<->50
+Empirical evidence<->science<->50
+Universal gravitation<->Isaac Newton<->50
+E=mc2|{{math|1=''E'' = ''mc''{{smallsup<->algebra<->50
+Image (mathematics)<->Function (mathematics)<->50
+engineering<->process (engineering)<->50
+engineering<->mathematics<->50
+engineering<->Materials science<->50
+engineering<->Industrial Revolution<->50
+engineering<->science<->50
+engineering<->tool<->50
+University of Cambridge<->Isaac Newton<->50
+Nicolaus Mercator<->infinitesimal<->50
+Alonzo Church<->lambda calculus<->50
+process calculus<->fusion calculus<->50
+process calculus<->Language Of Temporal Ordering Specification<->50
+process calculus<->algebra<->50
+process calculus<->bisimulation<->50
+process calculus<->PEPA<->50
+process calculus<->Algebra of Communicating Processes<->50
+process calculus<->concurrent system<->50
+Newtonian fluid<->Isaac Newton<->50
+oblate spheroid<->Isaac Newton<->50
+Old Style and New Style dates<->Isaac Newton<->50
+calculus<->mathematics<->50
+calculus<->Isaac Newton<->50
+calculus<->infinitesimal<->50
+Isaac Barrow<->Isaac Newton<->50
+algorithm<->Function (mathematics)<->50
+Trajectory<->Isaac Newton<->50
+Newton's laws of motion<->Isaac Newton<->50
+binomial theorem<->Isaac Newton<->50
+Science in the medieval Islamic world#Notable scientists<->science<->50
+Paul du Bois-Reymond<->infinitesimal<->50
+Calculator<->abacus<->50
+China<->abacus<->50
+Foundations of mathematics<->mathematics<->50
+Lucasian Professor of Mathematics<->Isaac Newton<->50
+scientific community<->science<->50
+variable (mathematics)<->Function (mathematics)<->50
+holy orders<->Isaac Newton<->50
+mathematical proof<->mathematics<->50
+definition<->mathematics<->50
+Syed Nomanul Haq<->science<->50
+hyperreal number<->infinitesimal<->50
+mathematical structure<->mathematics<->50
+space<->mathematics<->50
+Euclid<->mathematics<->50
+Anne, Queen of Great Britain<->Isaac Newton<->50
+Boethius<->abacus<->50
+law of continuity<->infinitesimal<->50
+René Descartes<->Isaac Newton<->50
+G. J. Toomer<->science<->50
+composition of functions<->Function (mathematics)<->50
+Galileo Galilei<->mathematics<->50
+deductive reasoning<->mathematics<->50
+Benjamin Pulleyn<->Isaac Newton<->50
+Applied mathematics<->mathematics<->50
+abstraction (mathematics)<->mathematics<->50
+didactics<->mathematics education<->50
+Mathematics<->Isaac Newton<->50
+Alchemy<->Isaac Newton<->50
+Johannes Kepler<->infinitesimal<->50
+Middlesex<->Isaac Newton<->50
+Émile Borel<->infinitesimal<->50
+Opticks<->Isaac Newton<->50
+research<->mathematics education<->50
+Cartesian plane<->Function (mathematics)<->50
+non-standard analysis<->infinitesimal<->50
+abacus<->post-Soviet states<->50
+abacus<->soroban<->50
+abacus<->algorism<->50
+abacus<->Russia<->50
+abacus<->The Compendious Book on Calculation by Completion and Balancing<->50
+Edwin Hewitt<->infinitesimal<->50
+timeline of scientific discoveries<->mathematics<->50
+Domain of a function<->Function (mathematics)<->50
+Nicholas of Cusa<->infinitesimal<->50
+Church of England<->Isaac Newton<->50
+physical law<->science<->50
+BBC Radio 4<->mathematics<->50
+biology<->science<->50
+Substitution (algebra)<->lambda calculus<->50
+Astronomy<->Isaac Newton<->50
+Augustin-Louis Cauchy<->infinitesimal<->50
+Simon Stevin<->infinitesimal<->50
+Function (mathematics)<->graph of a function<->50
+Function (mathematics)<->binary relation<->50
+Function (mathematics)<->mathematics<->50
+Function (mathematics)<->real numbers<->50
+Function (mathematics)<->functional analysis<->50
+Function (mathematics)<->complex analysis<->50
+Function (mathematics)<->function space<->50
+Function (mathematics)<->arithmetic<->50
+education<->mathematics education<->50
+Zero of a function<->Isaac Newton<->50
+Godfrey Kneller<->Isaac Newton<->50
+Newtonian mechanics<->Isaac Newton<->50
+mathematics<->mathematics education<->50
+mathematics<->Raphael<->50
+mathematics<->Carl Friedrich Gauss<->50
+mathematics<->Mathematics (disambiguation)<->50
+mathematics<->Definitions of mathematics<->50
+mathematics<->motion (physics)<->50
+mathematics<->infinitesimal<->50
+mathematics<->Benjamin Peirce<->50
+mathematics<->Math (disambiguation)<->50
+mathematics<->science<->50
+mathematics<->History of Mathematics<->50
+mathematics<->Giuseppe Peano<->50
+mathematics<->logic<->50
+mathematics<->David Hilbert<->50
+mathematics<->Renaissance<->50
+mathematics<->algebra<->50
+mathematics<->shape<->50
+Jim Al-Khalili<->science<->50
+Ibn al-Haytham<->science<->50
+logic<->science<->50
+logic<->propositional calculus<->50
+Parliament of the United Kingdom<->Isaac Newton<->50
+arithmetic<->algebra<->50
+Leonhard Euler<->infinitesimal<->50
+Church-Rosser theorem<->lambda calculus<->50
+Thoralf Skolem<->infinitesimal<->50
+astronomy<->science<->50
+chemistry<->science<->50
+Newton's method<->Isaac Newton<->50
+Mahābhūta<->science<->50
+scientific method<->science<->50
+Philosophiae Naturalis Principia Mathematica<->science<->50
+Kingdom of England<->Isaac Newton<->50
+heliocentrism<->Isaac Newton<->50
+transcendental law of homogeneity<->infinitesimal<->50
+mathematics education<->List of scientific journals in mathematics education<->50
+mathematics education<->learning<->50
+integral<->infinitesimal<->50
+Warden of the Mint<->Isaac Newton<->50
+Archimedes<->infinitesimal<->50
+ring (mathematics)<->algebra<->50
+Ordinal number (linguistics)<->infinitesimal<->50
+Newton's law of cooling<->Isaac Newton<->50
+scientist<->science<->50
+angle<->infinitesimal<->50
+William Whiston<->Isaac Newton<->50
+Lincolnshire<->Isaac Newton<->50
+Dynamics (mechanics)<->Isaac Newton<->50
+classical mechanics<->Isaac Newton<->50
+Western world<->science<->50
+field (mathematics)<->algebra<->50
+Axial precession<->Isaac Newton<->50
+method of exhaustion<->infinitesimal<->50
+classical antiquity<->science<->50
+Whigs (British political party)<->Isaac Newton<->50
+Encyclopædia Britannica<->science<->50
+Kensington<->Isaac Newton<->50
+Newton's law of universal gravitation<->Isaac Newton<->50
+Continental Europe<->Isaac Newton<->50
+lambda calculus<->computability<->50
+lambda calculus<->mathematical logic<->50
+Knight Bachelor<->Isaac Newton<->50
+Cours d'Analyse<->infinitesimal<->50
+Philosophiæ Naturalis Principia Mathematica<->Isaac Newton<->50
+Pierre Louis Maupertuis<->Isaac Newton<->50
+optics<->Isaac Newton<->50
+standard part function<->infinitesimal<->50
+Book of Optics<->science<->50
+Bonaventura Cavalieri<->infinitesimal<->50
+Erkenntnis<->infinitesimal<->50
+Theory of Colours<->Isaac Newton<->50
+Electromagnetic_spectrum#Visible_radiation_.28light.29<->Isaac Newton<->50
+Infinity<->infinitesimal<->50
+Merriam-Webster<->science<->50
+Jerzy Łoś<->infinitesimal<->50
+Isaac Newton<->tide<->50
+Isaac Newton<->Westminster Abbey<->50
+Isaac Newton<->Optics<->50
+Abraham Robinson<->infinitesimal<->50
+physical universe<->science<->50
+infinitesimal<->John Wallis<->50
+formal science<->science<->50
+science<->Online Etymology Dictionary<->50
+science<->The Feynman Lectures on Physics<->50
+number theory<->algebra<->50
